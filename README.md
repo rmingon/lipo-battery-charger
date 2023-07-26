@@ -10,7 +10,7 @@
 ### You can change resistor with help of this grah (see datasheet for more info [HERE](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP73831-Family-Data-Sheet-DS20001984H.pdf))
 ![3d](prog.png)
 
-#### really easy calculator
+#### really easy calculator for charging speed to resistor to set
 ```javascript
 const charging_speed = 500 // set here your charging speed desired in milliamps
 if (charging_speed > 500) 
